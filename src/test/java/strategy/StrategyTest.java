@@ -8,7 +8,7 @@ import strategy.duck.MallardDuck;
 import strategy.duck.ModelDuck;
 import strategy.fly.FlyNoWay;
 import strategy.quack.MuteQuack;
-import utils.DuckActions;
+import strategy.utils.DuckActions;
 
 public class StrategyTest {
 

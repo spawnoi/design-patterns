@@ -1,6 +1,6 @@
 package strategy.quack;
 
-import utils.DuckActions;
+import strategy.utils.DuckActions;
 
 public class Squeak implements QuackBehavior {
 	

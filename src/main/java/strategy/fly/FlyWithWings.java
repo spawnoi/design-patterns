@@ -1,6 +1,6 @@
 package strategy.fly;
 
-import utils.DuckActions;
+import strategy.utils.DuckActions;
 
 public class FlyWithWings implements FlyBehavior {
 

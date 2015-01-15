@@ -1,4 +1,4 @@
-package utils;
+package strategy.utils;
 
 public interface DuckActions {
 
